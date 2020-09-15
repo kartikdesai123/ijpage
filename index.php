@@ -1,3 +1,9 @@
+<?php
+
+// Including the DB connection file:
+require 'connect.php';
+die();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <?php
